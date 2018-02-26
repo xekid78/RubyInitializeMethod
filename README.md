@@ -1,0 +1,2 @@
+# RubyInitializeMethod
+initializeメソッドとattr_accessorメソッド

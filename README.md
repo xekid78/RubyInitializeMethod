@@ -2,7 +2,7 @@
 initializeメソッドとattr_accessorメソッド
 
 ## 処理
-initializeメソッドとattr_accessorメソッドを使って文章の出力を行う。
+`initialize()`メソッドと`attr_accessor()`メソッドを使って文章の出力を行う。
 
 ## コード
 ```
